@@ -17,3 +17,4 @@
 * Krzysztof "Olundir" Jeżak
 * Wiktor Snochowski (HappyHormone)
 * Oskar Ratus (disc: Marik__1234#9080)
+* Monika Adamczyk (disc: Monix)
